@@ -1,5 +1,4 @@
-.gitattributes
+$ cat .gitattributes
 
-static/* linguist-vendored
-mario-game/static/* linguist-vendored
-mario-gam/templates/* linguist-vendored
+*.css linguist-language=js
+*.html linguist-language=js
