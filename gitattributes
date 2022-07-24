@@ -1,4 +1,5 @@
 .gitattributes
 
-* linguist-vendored
-*.css linguist-vendored=false
+static/* linguist-vendored
+mario-game/static/* linguist-vendored
+mario-gam/templates/* linguist-vendored
